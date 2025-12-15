@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Clinical Psychology PhD Applicant | Boston University
+subtitle: Clinical Psychology PhD Applicant | Boston University
 
 profile:
   align: right
