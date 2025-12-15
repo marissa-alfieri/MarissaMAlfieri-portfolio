@@ -1,7 +1,6 @@
 ---
 layout: about
 title: about
-permalink: /
 subtitle: <a href='#'>Clinical Psychology PhD Applicant | Boston University
 
 profile:
@@ -9,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>33 Harry Agganis Way</p>
-    <p>Box 9224</p>
-    <p>Boston, MA 02215</p>
+    <p>Boston, MA</p> <br>
+    <p>alfieri.marissa@gmail.com</p> <br>
+    <p>(973) 248-2105</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,7 +30,7 @@ I am a senior at Boston University pursuing clinical psychology PhD programs wit
 
 I want to identify how interactions between psychological mechanisms (such as emotion regulation, stress reactivity, and executive function) shape individual developmental risk trajectories in emotion dysregulation and psychopathology. This requires examining within-person patterns to recognize various mechanistic interactions that contribute to psychopathology, which group-level methods may obscure.
 
-## Background
+## Research Background
 
 My research experience spans multiple labs at Boston University, including work with Dr. Catherine Caldwell-Harris on language interpretation studies and collaboration with Dr. Laura M. Jiménez on race-based trauma research. I have also conducted cross-cultural research in Italy as part of my honors thesis.
 
