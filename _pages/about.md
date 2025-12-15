@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: \
+permalink: /
 subtitle: <a href='#'>Clinical Psychology PhD Applicant | Boston University</a>
 
 profile:
