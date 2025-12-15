@@ -34,5 +34,3 @@ I want to identify how interactions between psychological mechanisms (such as em
 ## Background
 
 My research experience spans multiple labs at Boston University, including work with Dr. Catherine Caldwell-Harris on language interpretation studies and collaboration with Dr. Laura M. Jiménez on race-based trauma research. I have also conducted cross-cultural research in Italy as part of my honors thesis.
-
-[Learn more about my research projects →](/research/)
