@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: true
+nav: false  # Disabled - not applicable for individual portfolio
 nav_order: 7
 
 profiles:
